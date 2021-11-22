@@ -26,6 +26,7 @@ VALUES ("Chokkalingam.S",50,30,30,12,0,"RagavKumar",1,"Fullstack Developer"),
 ("Karthick.K",150,30,30,15,0,"Lavish",1,"DataScientist"),
 ("Franklin.D",200,30,30,15,0,"SaiMohan",1,"Fullstack Developer"),
 ("Manoharan",170,30,30,15,0,"Lavish",1,"Ethical Hacking");
+<img src="2.png" alt="2nd question"></img>
 
 3. get number problems solved in codekata by combining the users
 Ans:
